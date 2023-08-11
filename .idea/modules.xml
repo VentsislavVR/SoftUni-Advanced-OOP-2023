@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Advanced-OOP.iml" filepath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SoftUni-Fundamentals-2023/.idea/SoftUniFundamentals.iml" filepath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/.idea/SoftUniFundamentals.iml" />
     </modules>
   </component>
 </project>
