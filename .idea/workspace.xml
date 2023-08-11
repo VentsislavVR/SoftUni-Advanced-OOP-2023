@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists as Stacks and Ques Excersise/1. Reverse Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists as Stacks and Ques Excersise/10. Cups and Bottles.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists as Stacks and Ques Excersise/2. Stacked Queries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists as Stacks and Ques Excersise/3. Fast Food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists as Stacks and Ques Excersise/4. Fashion Boutique.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists as Stacks and Ques Excersise/5. Truck Tour.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists as Stacks and Ques Excersise/6. Balanced Parentheses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists as Stacks and Ques Excersise/7. Robotics !!.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists as Stacks and Ques Excersise/8. Crossroads.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists as Stacks and Ques Excersise/9. Key Revolver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/1Reverse Strings Lab Ines..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/1Reverse StringsLab..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/2.Matching Parentheses Lab Ines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/2.Matching ParenthesesLab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/3.Supermarket Lab. Inespy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/3.SupermarketLab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/4.Water Dispenser Lab Ines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/4.Water DispenserLab.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/5.Hot Potato Ines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/5.HotPotato.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/1.Lists asS tacks and Ques Lab/Time Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/1. Numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/1. NumbersLAMBDA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/2.Expression Evaluator Eval version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/2.Expression Evaluator Reduce version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/2.Expression Evaluator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/3.Milkshakes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/3.MilkshakesDilyanK.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/4.Honey.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/5.Santa's Present Factory.DilyanKpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/5.Santa's Present Factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/6.Paint Colors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Exercise Stacks Queues Tuples and Sets/TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Excersise/1.Unique Usernames.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Excersise/2.Sets of Elements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Excersise/3.Periodic Table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Excersise/4.Count Symbols.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Excersise/5.Longest Intersection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Excersise/6.Battle of Names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Excersise/TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Lab/1..Count Same Values.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Lab/2. Students' Grades.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Lab/3.Record Unique Names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Lab/4.Parking Lot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Lab/5.SoftUni Party.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/2.Tubles and Sets Lab/TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/1.Diagonals. DiyanKpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/1.Diagonals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/10. Radioactive Mutant Vampire Bunnies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/2. Diagonal Difference DiyanK.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/2.Diagonal Difference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/3.2x2 Squares in Matrix DiyanK.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/3.2x2 Squares in Matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/4.Maximal Sum Better.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/4.Maximal Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/4.Maximal SumDiyanK.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/5.Matrix of Palindromes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/6.Matrix Shuffling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/7.Snake Moves.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/8. Bombs Exam problem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/9. Miner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise 1/TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise Repeat/1.Diagonals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise2/1.Flatten Lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise2/2.Matrix Modification Diyan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise2/2.Matrix Modification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise2/3.Knight Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise2/4.Easter Bunny.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise2/5.Alice in Wonderland.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise2/6.Range Day.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise2/6.RangeDay D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise2/7.Present Delivery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Excersise2/TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Lab/07.Square with Maximum Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Lab/1.Sum Matrix Elements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Lab/2.Even Matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Lab/3.Flattening Matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Lab/4.Sum Matrix Columns.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Lab/5.Primary Diagonal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Lab/6.Symbol in Matrix Func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Lab/6.Symbol in Matrix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/3.Multidimensional Lists Lab/TEST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/10_fill_the_box.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/11_math_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/1_negative_vs_positive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/2._keyword_arguments_length.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/3_even_or_odd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/4_numbers_filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/5._concatenate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/6_function_executor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/7_grocery.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/8_age_assignment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/9_recursion_palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/kate's_way_out.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Excersise/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Lab/advanced_sorting_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Lab/cheese_showcase 3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Lab/multiplication_function 1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Lab/operate_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Lab/person_info 2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Lab/rectangle_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Lab/recursive_power_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/4.Functions Advanced Lab/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/5.Error Handling Excersise/email_validator_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/5.Error Handling Excersise/numbers_dictionary_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/5.Error Handling Lab/repeat_text_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/5.Error Handling Lab/so_many_exceptions_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/5.Error Handling Lab/test_file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/5.Error Handling Lab/value_cannot_be_negative_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Excersise/even_lines_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Excersise/file_manipulator_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Excersise/files/new_name.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Excersise/files/python_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Excersise/files/report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Excersise/files/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Excersise/line_umbers_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Excersise/recap_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Excersise/recursion_must_debug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Excersise/rename_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/file_delete_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/file_opener_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/file_reader_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/file_testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/file_writer_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/file_writer_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/numbers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/testing/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/testing/testtest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/texxt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/word_count _5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/6.File Handling Lab/words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/7.Workshop Lab/Tic_Tac_Toe_workshop_SoftUni.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/7.Workshop Lab/connect_four.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/7.Workshop Lab/connect_four_ai_redone.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/7.Workshop Lab/connect_four_with_AI.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/7.Workshop Lab/image_generatorDK.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/7.Workshop Lab/image_generator_project_workshop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/7.Workshop Lab/pyfigletfonts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/7.Workshop Lab/pyglet_fonts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Excersise/authentication.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Excersise/buying_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Excersise/canvas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Excersise/db/products.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Excersise/db/user_information.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Excersise/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Excersise/images/shoes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Excersise/images/tracksuit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Excersise/images/trousers.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Excersise/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Lab/ascii_art_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Lab/basic_calc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Lab/calculate_logarithm_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Lab/fib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Lab/fibonacci_sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Lab/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Lab/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Lab/triangle/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Lab/triangle/drawing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/8.Modules Lab/triangle_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_january_2023/climb_the_peak_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_january_2023/rally_racing_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_january_2023/shopping_cart_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_january_2023/student_credits_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_january_2023_2/forcast_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_january_2023_2/hourly_forecast_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_january_2023_2/martian_explorer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_january_2023_2/naughty_or_nice_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_january_2023_2/navy_battle_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_january_2023_2/ramen_shop_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_may_2023/1.christmas_elves_december_2021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_may_2023/3.words_sorting_april_2022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_may_2_2023/1.flowers_finder_february_2022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_may_2_2023/3.naughty_or_nice_december_2021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/Advanced/Exam Prep/exam_prep_may_2_2023/martian_explorer_april_2022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Exercise/cup_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Exercise/employee_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Exercise/flower_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Exercise/hero_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Exercise/programmer_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Exercise/project/pokemon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Exercise/project/trainer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Exercise/shop_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Exercise/steam_user_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Exercise/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Lab/car_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Lab/class_book_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Lab/music_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Lab/rhombus_of_stars _1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Lab/scope_mess_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/1.First Steps in OOP Lab/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/account_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/guilt_system_6/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/guilt_system_6/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/guilt_system_6/project/guild.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/guilt_system_6/project/player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/library_8/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/library_8/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/library_8/project/library.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/library_8/project/registration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/library_8/project/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/library_8/project/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/pizza_delivery _4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/spoopify_7/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/spoopify_7/project/album.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/spoopify_7/project/band.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/spoopify_7/project/song.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/spoopify_7/project/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/time_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/to_do_list_5/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/to_do_list_5/project/section.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/to_do_list_5/project/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/to_do_list_5/project/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Exercise/vet_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Lab/circle _3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Lab/glass_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Lab/point_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Lab/smartphone_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/2.Classes and Objects Lab/vehicle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/need_for_speed_4/project/car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/need_for_speed_4/project/cross_motorcycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/need_for_speed_4/project/family_car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/need_for_speed_4/project/motorcycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/need_for_speed_4/project/race_motorcycle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/need_for_speed_4/project/sport_car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/need_for_speed_4/project/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/need_for_speed_4/project/vehicle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/person_1/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/person_1/project/child.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/person_1/project/person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/blade_knight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/dark_knight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/dark_wizard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/elf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/hero.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/knight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/muse_elf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/soul_master.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/players_and_monsters_3/project/wizard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/shop_5/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/shop_5/project/drink.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/shop_5/project/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/shop_5/project/product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/shop_5/project/product_repository.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/zoo_2/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/zoo_2/project/animal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/zoo_2/project/bear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/zoo_2/project/gorilla.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/zoo_2/project/lizard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/zoo_2/project/mammal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/zoo_2/project/reptile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Excercise/zoo_2/project/snake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/food_01/project/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/food_01/project/fruit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/hierarchical_inheritance_05/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/hierarchical_inheritance_05/project/animal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/hierarchical_inheritance_05/project/cat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/hierarchical_inheritance_05/project/dog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/multilevel_inheritance_4/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/multilevel_inheritance_4/project/car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/multilevel_inheritance_4/project/sports_car.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/multilevel_inheritance_4/project/vehicle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/multiple_inheritance_03/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/multiple_inheritance_03/project/employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/multiple_inheritance_03/project/person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/multiple_inheritance_03/project/teacher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/single_inheritance_02/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/single_inheritance_02/project/animal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/single_inheritance_02/project/dog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/3.Inheritance Lab/stack_of_strings _6/stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/football_team_generator_3/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/football_team_generator_3/project/player.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/football_team_generator_3/project/team.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/football_team_generator_3/project/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/pizza_maker_2/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/pizza_maker_2/project/dough.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/pizza_maker_2/project/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/pizza_maker_2/project/pizza.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/pizza_maker_2/project/topping.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/beverage/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/beverage/beverage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/beverage/coffee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/beverage/cold_beverage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/beverage/hot_beverage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/beverage/tea.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/food/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/food/cake.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/food/dessert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/food/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/food/main_dish.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/food/salmon.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/food/soup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/food/starter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/restaurant_4/project/product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/animal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/caretaker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/cheetah.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/keeper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/lion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/tiger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/vet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/worker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Excercise/wild_cat_zoo_1/project/zoo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Lab/account.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Lab/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Lab/emeil_validator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Lab/mammal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Lab/person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Lab/profile_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/4.Encapsulation Lab/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/document_management_3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/document_management_3/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/document_management_3/project/category.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/document_management_3/project/document.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/document_management_3/project/storage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/document_management_3/project/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/document_management_3/project/topic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/gym_4/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/gym_4/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/gym_4/project/customer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/gym_4/project/equipment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/gym_4/project/exercise_plan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/gym_4/project/gym.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/gym_4/project/subscription.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/gym_4/project/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/gym_4/project/trainer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/movie_world_2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/movie_world_2/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/movie_world_2/project/customer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/movie_world_2/project/dvd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/movie_world_2/project/movie_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/movie_world_2/project/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Excercise/photo_album_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Lab/calculator_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Lab/hotel_rooms_4/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Lab/hotel_rooms_4/project/hotel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Lab/hotel_rooms_4/project/room.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Lab/integer_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/5.Class and Static Methods Lab/shop_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/account_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/animals_5/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/animals_5/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/animals_5/project/animal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/animals_5/project/cat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/animals_5/project/dog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/animals_5/project/kitten.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/animals_5/project/tomcat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/formula_1_manager/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/formula_1_manager/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/formula_1_manager/project/f1_season_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/formula_1_manager/project/formula_teams/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/formula_1_manager/project/formula_teams/formula_team.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/formula_1_manager/project/formula_teams/mercedes_team.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/formula_1_manager/project/formula_teams/red_bull_team.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/groups_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/vehicle_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/wild_farm_4/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/wild_farm_4/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/wild_farm_4/project/animals/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/wild_farm_4/project/animals/animal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/wild_farm_4/project/animals/birds.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/wild_farm_4/project/animals/food.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Excercise/wild_farm_4/project/animals/mammals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Lab/image_area_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Lab/playing_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Lab/robots_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/6.Polymorphism and Abstraction Lab/shape.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/7.SOLID Excersise/emails_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/7.SOLID Excersise/prisoner_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/7.SOLID Excersise/shapes_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/7.SOLID Excersise/workers_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/7.SOLID Excersise/workers_updated_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/7.SOLID Lab/01_SRP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/7.SOLID Lab/02_OCP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/7.SOLID Lab/03_LSP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/7.SOLID Lab/04_ISP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoftUni-Fundamentals-2023/OOP/7.SOLID Lab/05_DIP.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TpX0ZeXZFt3xUFiSuhXdVL2Fk3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/GIT Repos/SoftUni-Fundamentals-2023",
+    "settings.editor.selected.configurable": "configurable.group.project"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="workers_updated_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/7.SOLID Excersise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/7.SOLID Excersise/workers_updated_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.workers_updated_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="" />
+      <created>1691740774010</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691740774010</updated>
+    </task>
+    <servers />
+  </component>
+</project>
