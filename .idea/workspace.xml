@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="more problems">
-      <change afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/execution_time.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/execution_time_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_store_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_types/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_types/computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_types/desktop_computer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_types/laptop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/10.Testing/car_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/10.Testing/cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/10.Testing/extended_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/10.Testing/test_worker_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/9.Decorators Excersise/store-results_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/store-results_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_store_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_store_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_types/desktop_computer.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_types/desktop_computer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_types/laptop.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_types/laptop.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GIT Repos/SoftUni-Fundamentals-2023&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.project&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/GIT Repos/SoftUni-Fundamentals-2023",
+    "settings.editor.selected.configurable": "inlay.hints"
   }
-}</component>
-  <component name="RunManager" selected="Python.computer_store_app">
-    <configuration name="HTML_tags_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.car_manager">
+    <configuration name="car_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +59,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/9.Decorators Excersise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/10.Testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/9.Decorators Excersise/HTML_tags_6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/10.Testing/car_manager.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,97 +72,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="computer_store_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for extended_list.IntegerListTests.test_get_biggest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/9.Decorators Excersise/project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/10.Testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/9.Decorators Excersise/project/computer_store_app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;extended_list.IntegerListTests.test_get_biggest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="execution_time_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for extended_list.IntegerListTests.test_get_index" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/9.Decorators Excersise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/10.Testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/9.Decorators Excersise/execution_time_8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;extended_list.IntegerListTests.test_get_index&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="file_writer_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for extended_list.IntegerListTests.test_insert" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced/6.File Handling Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/10.Testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/6.File Handling Lab/file_writer_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;extended_list.IntegerListTests.test_insert&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="store-results_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in extended_list.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/9.Decorators Excersise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/10.Testing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/9.Decorators Excersise/store-results_7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/OOP/10.Testing/extended_list.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.computer_store_app" />
-        <item itemvalue="Python.execution_time_8" />
-        <item itemvalue="Python.store-results_7" />
-        <item itemvalue="Python.file_writer_test" />
-        <item itemvalue="Python.HTML_tags_6" />
+        <item itemvalue="Python.car_manager" />
+        <item itemvalue="Python tests.Python tests in extended_list.py" />
+        <item itemvalue="Python tests.Python tests for extended_list.IntegerListTests.test_get_index" />
+        <item itemvalue="Python tests.Python tests for extended_list.IntegerListTests.test_get_biggest" />
+        <item itemvalue="Python tests.Python tests for extended_list.IntegerListTests.test_insert" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691961392906</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="more problems">
+      <option name="closed" value="true" />
+      <created>1692001714529</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692001714529</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,6 +276,16 @@
           <url>file://$PROJECT_DIR$/OOP/9.Decorators Excersise/HTML_tags_6.py</url>
           <line>8</line>
           <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP/10.Testing/cat.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP/10.Testing/cat.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
