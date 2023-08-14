@@ -68,10 +68,30 @@ class Car:
 
         if needed > self.__fuel_amount:
             raise Exception("You don't have enough fuel to drive!")
-
         self.__fuel_amount -= needed
-
 
 car = Car("a", "b", 1, 4)
 car.make = ""
 print(car)
+
+import unittest
+
+
+class CarTest(unittest.TestCase):
+    def setUp(self) -> None:
+        self.car = Car("a", "b", 1, 4)
+
+    def test_get_make(self):
+        self.assertEqual("a", self.car.make)
+
+    def test_get_make_raises(self):
+
+        with self.assertRaises(Exception) as ex:
+            self.car.make = ""
+        self.assertEqual("Make cannot be null or empty!", str(ex.exception))
+
+
+
+
+if __name__ == "__main__":
+    unittest.main()
