@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="more problems">
-      <change afterPath="$PROJECT_DIR$/OOP/10.Testing/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/10.Testing Excersise/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/supply/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/supply/drink.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/supply/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/supply/supply.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/10.Testing/car_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/10.Testing/car_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +34,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2TpX0ZeXZFt3xUFiSuhXdVL2Fk3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -41,58 +50,82 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/GIT Repos/SoftUni-Fundamentals-2023",
+    "last_opened_file_path": "D:/GIT Repos/SoftUni-Advanced-OOP 2023/OOP/Exam prep June 2023",
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\10.Testing Excersise\Exercise-Resources\vehicle" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\10.Testing Excersise\Exercise-Resources\vehicle\project" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\10.Testing Excersise\Exercise-Resources\mammal\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in car_manager.py">
-    <configuration name="Python tests for test.CarTest.test_driving_with_sufficient_fuel" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.controller">
+    <configuration name="controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/10.Testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Exam prep June 2023/project" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.CarTest.test_driving_with_sufficient_fuel&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Exam prep June 2023/project/controller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.CarTest.test_refuel_with_excess_amount" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="supply" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/10.Testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Exam prep June 2023/project/supply" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.CarTest.test_refuel_with_excess_amount&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Exam prep June 2023/project/supply/supply.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test.CarTest.test_refuel_with_positive_valid_value" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/10.Testing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/10.Testing Excersise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test.CarTest.test_refuel_with_positive_valid_value&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/10.Testing Excersise/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in car_manager.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -125,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.controller" />
+        <item itemvalue="Python.supply" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python tests.Python tests in car_manager.py" />
         <item itemvalue="Python tests.Python tests in test.py" />
-        <item itemvalue="Python tests.Python tests for test.CarTest.test_driving_with_sufficient_fuel" />
-        <item itemvalue="Python tests.Python tests for test.CarTest.test_refuel_with_positive_valid_value" />
-        <item itemvalue="Python tests.Python tests for test.CarTest.test_refuel_with_excess_amount" />
       </list>
     </recent_temporary>
   </component>
@@ -249,7 +282,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692091871689</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="more problems">
+      <option name="closed" value="true" />
+      <created>1692096672581</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692096672581</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

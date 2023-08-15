@@ -1,0 +1,12 @@
+from project.supply.supply import Supply
+
+
+class Drink(Supply):
+    INITIAL_ENERGY = 15
+
+    def __init__(self, name: str):
+        super().__init__(name, Drink.INITIAL_ENERGY)
+
+    # to be overriden in requirements
+    def details(self) -> str:
+        return f"{self.__class__.__name__}: {self.name}, {self.energy}"
