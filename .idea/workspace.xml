@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="more problems">
-      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/fantasy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/movie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/thriller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/plantation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/plantation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test/test_plantation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/action.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/action.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/fantasy.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/fantasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/movie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/thriller.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/thriller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/user.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,92 +50,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/GIT Repos/SoftUni-Advanced-OOP 2023/OOP/Exam prep June 2023.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GIT Repos/SoftUni-Advanced-OOP 2023/OOP/Exam prep June 2023.2/testing&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023.2\testing" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023.2" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023\testing" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023.2" />
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023.2\First and second" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\10.Testing Excersise\Exercise-Resources\vehicle" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\10.Testing Excersise\Exercise-Resources\vehicle\project" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\10.Testing Excersise\Exercise-Resources\mammal\project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="action" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/action.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fantasy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/fantasy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="movie_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.plantation">
+    <configuration name="plantation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/plantation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,34 +96,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="thriller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_plantation.PlantationTest.test_planting_more_plants_for_worker" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/movie_specification/thriller.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_plantation.PlantationTest.test_planting_more_plants_for_worker&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_plantation.PlantationTest.test_self_len" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_plantation.PlantationTest.test_self_len&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_plantation.PlantationTest.test_some_len_bigger_than_size_raises" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_plantation.PlantationTest.test_some_len_bigger_than_size_raises&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_plantation.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test/test_plantation.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.movie_app" />
-        <item itemvalue="Python.thriller" />
-        <item itemvalue="Python.fantasy" />
-        <item itemvalue="Python.action" />
+        <item itemvalue="Python.plantation" />
+        <item itemvalue="Python tests.Python tests in test_plantation.py" />
+        <item itemvalue="Python tests.Python tests for test_plantation.PlantationTest.test_some_len_bigger_than_size_raises" />
+        <item itemvalue="Python tests.Python tests for test_plantation.PlantationTest.test_self_len" />
+        <item itemvalue="Python tests.Python tests for test_plantation.PlantationTest.test_planting_more_plants_for_worker" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692168529233</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="more problems">
+      <option name="closed" value="true" />
+      <created>1692204300683</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1692204300683</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,6 +381,11 @@
           <url>file://$PROJECT_DIR$/OOP/10.Testing/test.py</url>
           <line>51</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test/test_plantation.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
