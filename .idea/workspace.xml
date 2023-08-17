@@ -5,9 +5,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="more problems">
-      <change afterPath="$PROJECT_DIR$/OOP/Workshop Custom List/custom_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOP/Workshop Custom List/test_custom_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/4.Maximal Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise2/1.Flatten Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise2/2.Matrix Modification Diyan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise2/2.Matrix Modification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise2/3.Knight Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise2/4.Easter Bunny.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise2/5.Alice in Wonderland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise2/6.Range Day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise2/7.Present Delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise2/TEST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Lab 2022/07.Square with Maximum Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Lab 2022/1.Sum Matrix Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Lab 2022/2.Even Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Lab 2022/3.Flattening Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Lab 2022/4.Sum Matrix Columns.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Lab 2022/5.Primary Diagonal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Lab 2022/6.Symbol in Matrix Func.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Lab 2022/6.Symbol in Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Lab 2022/TEST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/project/movie_specification/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/project/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/project/supply/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/project/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/testing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/testing/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/testing/project/test/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/3.Multidimensional Lists Excersise 1/8. Bombs Exam problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional Lists Excersise 1/8. Bombs Exam problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/3.Multidimensional Lists Excersise Repeat/1.Diagonals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_january_2023/climb_the_peak_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/January_2023 Exam prep/exam_prep_january_2023/climb_the_peak_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_january_2023/rally_racing_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/January_2023 Exam prep/exam_prep_january_2023/rally_racing_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_january_2023/shopping_cart_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/January_2023 Exam prep/exam_prep_january_2023/shopping_cart_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_january_2023/student_credits_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/January_2023 Exam prep/exam_prep_january_2023/student_credits_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_january_2023_2/forcast_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/January_2023 Exam prep/exam_prep_january_2023_2/forcast_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_january_2023_2/hourly_forecast_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/January_2023 Exam prep/exam_prep_january_2023_2/hourly_forecast_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_january_2023_2/martian_explorer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/January_2023 Exam prep/exam_prep_january_2023_2/martian_explorer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_january_2023_2/naughty_or_nice_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/January_2023 Exam prep/exam_prep_january_2023_2/naughty_or_nice_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_january_2023_2/navy_battle_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/January_2023 Exam prep/exam_prep_january_2023_2/navy_battle_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_january_2023_2/ramen_shop_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/January_2023 Exam prep/exam_prep_january_2023_2/ramen_shop_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_may_2023/1.christmas_elves_december_2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/1.Diagonals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_may_2023/3.words_sorting_april_2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/May_2023 Exam prep/exam_prep_may_2023/3.words_sorting_april_2022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_may_2_2023/1.flowers_finder_february_2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/May_2023 Exam prep/exam_prep_may_2_2023/1.flowers_finder_february_2022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_may_2_2023/3.naughty_or_nice_december_2021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/May_2023 Exam prep/exam_prep_may_2_2023/3.naughty_or_nice_december_2021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/exam_prep_may_2_2023/martian_explorer_april_2022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/May_2023 Exam prep/exam_prep_may_2_2023/martian_explorer_april_2022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/10. Radioactive Mutant Vampire Bunnies.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/2.Diagonal Difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/project/movie_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/3.2x2 Squares in Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/action.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/project/movie_specification/action.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/fantasy.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/project/movie_specification/fantasy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/project/movie_specification/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/project/movie_specification/movie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/movie_specification/thriller.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/project/movie_specification/thriller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/plantation.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/project/plantation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/First and second/project/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/First and second/project/user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/5.Matrix of Palindromes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/plantation.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/project/plantation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/6.Matrix Shuffling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test/test_plantation.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/project/test/test_plantation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/7.Snake Moves.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/project/controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/project/movie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/project/player.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/supply/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/8. Bombs Exam problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/supply/drink.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/project/supply/drink.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/supply/food.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/project/supply/food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/supply/supply.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/project/supply/supply.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/9. Miner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/project/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/project/test/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/testing/project/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/3.Multidimensional 2022/3.Multidimensional Lists Excersise 1/TEST.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/testing/project/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/testing/project/movie.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/testing/project/test/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/May_2023 Exam prep/exam_prep_may_2023/1.christmas_elves_december_2021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/Exam prep June 2023/testing/project/test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023/testing/project/test/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,31 +114,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/GIT Repos/SoftUni-Advanced-OOP 2023/OOP/Exam prep June 2023.2/testing&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/GIT Repos/SoftUni-Advanced-OOP 2023/Advanced/3.Multidimensional 2022",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022" />
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022\3.Multidimensional Lists Excersise 1" />
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022\3.Multidimensional Lists Lab 2022" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023.2\testing" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023.2" />
-      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023\testing" />
-      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023.2" />
-      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023.2\First and second" />
-      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\10.Testing Excersise\Exercise-Resources\vehicle" />
-      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\10.Testing Excersise\Exercise-Resources\vehicle\project" />
-      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\10.Testing Excersise\Exercise-Resources\mammal\project" />
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\Exam Prep\May_2023 Exam prep" />
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\Exam Prep\January_2023 Exam prep" />
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\EXAM PREPS" />
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022\3.Multidimensional Lists Excersise 1" />
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022\3.Multidimensional Lists Lab 2022" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.custom_list">
+  <component name="RunManager" selected="Python.8. Bombs Exam problem">
+    <configuration name="8. Bombs Exam problem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced/3.Multidimensional Lists Excersise 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/3.Multidimensional Lists Excersise 1/8. Bombs Exam problem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="custom_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,20 +196,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_custom_hash.TestHashTable.test_get_method_raises" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/Workshop HashTable" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_custom_hash.TestHashTable.test_get_method_raises&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for test_custom_list.TestCustomList.test_append" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8. Bombs Exam problem" />
         <item itemvalue="Python.custom_list" />
         <item itemvalue="Python tests.Python tests for test_custom_list.TestCustomList.test_append" />
         <item itemvalue="Python tests.Python tests in test_custom_hash.py" />
         <item itemvalue="Python tests.Python tests for test_custom_hash.TestHashTable.test_get_method_correctly" />
-        <item itemvalue="Python tests.Python tests for test_custom_hash.TestHashTable.test_get_method_raises" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692273133966</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="more problems">
+      <option name="closed" value="true" />
+      <created>1692288025355</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1692288025355</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -387,7 +479,7 @@
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/OOP/Exam prep June 2023.2/project/test/test_plantation.py</url>
+          <url>file://$PROJECT_DIR$/OOP/EXAM PREPS/Exam prep June 2023.2/project/test/test_plantation.py</url>
           <line>45</line>
           <option name="timeStamp" value="85" />
         </line-breakpoint>
@@ -400,6 +492,11 @@
           <url>file://$PROJECT_DIR$/OOP/Workshop HashTable/test_custom_hash.py</url>
           <line>77</line>
           <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Advanced/3.Multidimensional Lists Excersise 1/8. Bombs Exam problem.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="99" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

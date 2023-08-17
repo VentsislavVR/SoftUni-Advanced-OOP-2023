@@ -30,3 +30,4 @@ alive_cells = [num for row in range(n) for num in matrix[row] if num >0] # only 
 print(f"Alive cells: {len(alive_cells)}")
 print(f"Sum: {sum(alive_cells)}")
 [print(*matrix[r],sep=" ") for r in range(n)]
+
