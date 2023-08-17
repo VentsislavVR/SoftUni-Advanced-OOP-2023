@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="more problems">
-      <change afterPath="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_1/crud_a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_1/CRUD.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_1/CRUD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_1/crud_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_1/crud_a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_1/song_creator_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_1/song_creator_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022\3.Multidimensional Lists Lab 2022" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.crud_a">
+  <component name="RunManager" selected="Python tests.Python tests in song_creator_3.py">
     <configuration name="CRUD" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,9 +157,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in song_creator_3.py" />
         <item itemvalue="Python.crud_a" />
         <item itemvalue="Python.CRUD" />
-        <item itemvalue="Python tests.Python tests in song_creator_3.py" />
         <item itemvalue="Python tests.Python tests for song_creator_3.Tests.test" />
         <item itemvalue="Python.song_creator_3" />
       </list>
@@ -353,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692302225775</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="more problems">
+      <option name="closed" value="true" />
+      <created>1692307087161</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1692307087161</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

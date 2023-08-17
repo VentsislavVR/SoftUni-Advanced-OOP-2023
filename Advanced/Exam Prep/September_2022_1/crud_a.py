@@ -48,3 +48,26 @@ while command != "Stop":
 
 for row in matrix:
     print(' '.join(row))
+
+# matrix = [input().split() for _ in range(6)]
+# row, col = map(int, input()[1::3]), map(int, input()[1::3])
+#
+# directions = {"up": (-1, 0), "down": (1, 0), "left": (0, -1), "right": (0, 1)}
+#
+# while (command := input()) != "Stop":
+#     action, direction, value = command.split(", ")
+#     dr, dc = directions[direction]
+#
+#     if action == "Create" and matrix[row][col] == ".":
+#         matrix[row][col] = value
+#     elif action == "Update" and matrix[row][col] != ".":
+#         matrix[row][col] = value
+#     elif action == "Delete":
+#         matrix[row][col] = "."
+#     elif action == "Read" and matrix[row][col] != ".":
+#         print(matrix[row][col])
+#
+#     row, col = row + dr, col + dc
+#
+# for row in matrix:
+#     print(' '.join(row))

@@ -9,13 +9,13 @@ def add_songs(*args):
             continue
         result[song_title] += sont_lyrics
 
-    total = ""
+    output = ""
     for key,value in result.items():
-        total+= f"- {key}\n"
+        output+= f"- {key}\n"
         if not value:
             continue
-        total += '\n'.join(value)+"\n"
-    return total
+        output += '\n'.join(value)+"\n"
+    return output
 
 
 print(add_songs(
