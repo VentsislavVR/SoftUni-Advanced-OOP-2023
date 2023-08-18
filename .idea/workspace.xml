@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="more problems">
-      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/_init_.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/booth.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/booth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/delicacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/delicacy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/gingerbread.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/gingerbread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/stolen.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/stolen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/open_booth.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/open_booth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/private_booth.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/private_booth.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -420,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692363954181</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="more problems">
+      <option name="closed" value="true" />
+      <created>1692365777117</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1692365777117</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
