@@ -5,9 +5,9 @@ def start_spring(**kwargs):
             result[type] = []
         result[type].append(obj)
 
-    sorting = sorted(result.items(),key=lambda x:(-len(x[1]),[0],x[0]))
+    result = sorted(result.items(),key=lambda x:(-len(x[1]),[0],x[0]))
     output = ""
-    for key,val in sorting:
+    for key,val in result:
         output += f"{key}:\n"
         for v in sorted(val):
             output += f"-{v}\n"
