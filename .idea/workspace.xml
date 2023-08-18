@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="more problems">
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/_init_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/booth.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/booth.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/delicacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/delicacy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/gingerbread.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/gingerbread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/stolen.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/stolen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/GIT Repos/SoftUni-Advanced-OOP 2023/Advanced/3.Multidimensional 2022",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "editor.preferences.folding"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -64,7 +67,7 @@
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022\3.Multidimensional Lists Excersise 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.martian_explorer">
+  <component name="RunManager" selected="Python.gingerbread">
     <configuration name="exit_founder_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,6 +81,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_2/exit_founder_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gingerbread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/gingerbread.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,27 +152,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stewards_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_2/stewards_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in start_spring_3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.gingerbread" />
         <item itemvalue="Python.martian_explorer" />
         <item itemvalue="Python tests.Python tests in start_spring_3.py" />
         <item itemvalue="Python.start_spring_3" />
         <item itemvalue="Python.exit_founder_2" />
-        <item itemvalue="Python.stewards_1" />
       </list>
     </recent_temporary>
   </component>
@@ -409,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692362176938</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="more problems">
+      <option name="closed" value="true" />
+      <created>1692363954181</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1692363954181</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
