@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="more problems">
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test/test_toy_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/toy_store.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/booth.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/booth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/open_booth.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/open_booth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/private_booth.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/booths/private_booth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/christmas_pastry_shop_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/christmas_pastry_shop_app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/delicacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/delicacy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,17 +46,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/GIT Repos/SoftUni-Advanced-OOP 2023/Advanced/3.Multidimensional 2022",
+    "last_opened_file_path": "D:/GIT Repos/SoftUni-Advanced-OOP 2023/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third",
     "settings.editor.selected.configurable": "editor.preferences.folding"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\EXAM PREPS\FEBRUARY 2023\FEBRUARY_1\third" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022\3.Multidimensional Lists Excersise 1" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022\3.Multidimensional Lists Lab 2022" />
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023.2\testing" />
-      <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\Exam prep June 2023.2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\OOP\EXAM PREPS\JUNE 2023" />
@@ -66,112 +66,84 @@
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022\3.Multidimensional Lists Excersise 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.christmas_pastry_shop_app">
-    <configuration name="christmas_pastry_shop_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/christmas_pastry_shop_app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="gingerbread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/first and second/project/delicacies/gingerbread.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="martian_explorer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_2/martian_explorer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="start_spring_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_2/start_spring_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in start_spring_3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test_toy_store.py">
+    <configuration name="Python tests for test_toy_store.TestToyStore.test_add_toy_successfully" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Advanced/Exam Prep/September_2022_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Advanced/Exam Prep/September_2022_2/start_spring_3.py&quot;" />
+      <option name="_new_target" value="&quot;test_toy_store.TestToyStore.test_add_toy_successfully&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_toy_store.TestToyStore.test_add_toy_to_a_full_shelf_raises" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_toy_store.TestToyStore.test_add_toy_to_a_full_shelf_raises&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_toy_store.TestToyStore.test_remove_toy_from_non_existing_shelf_raises" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_toy_store.TestToyStore.test_remove_toy_from_non_existing_shelf_raises&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_toy_store.TestToyStore.test_remove_toy_successfully" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_toy_store.TestToyStore.test_remove_toy_successfully&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_toy_store.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test/test_toy_store.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.christmas_pastry_shop_app" />
-        <item itemvalue="Python.gingerbread" />
-        <item itemvalue="Python.martian_explorer" />
-        <item itemvalue="Python tests.Python tests in start_spring_3.py" />
-        <item itemvalue="Python.start_spring_3" />
+        <item itemvalue="Python tests.Python tests in test_toy_store.py" />
+        <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_remove_toy_successfully" />
+        <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_remove_toy_from_non_existing_shelf_raises" />
+        <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_add_toy_successfully" />
+        <item itemvalue="Python tests.Python tests for test_toy_store.TestToyStore.test_add_toy_to_a_full_shelf_raises" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +407,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692368282093</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="more problems">
+      <option name="closed" value="true" />
+      <created>1692558962183</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1692558962183</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -566,6 +546,16 @@
           <url>file://$PROJECT_DIR$/Advanced/Exam Prep/September_2022_2/martian_explorer.py</url>
           <line>33</line>
           <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test/test_toy_store.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test/test_toy_store.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="126" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
