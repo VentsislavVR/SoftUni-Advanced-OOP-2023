@@ -9,7 +9,7 @@ class Delicacy(ABC):
 
     @property
     def name(self):
-        return self.__value
+        return self.__name
 
     @name.setter
     def name(self, value):
