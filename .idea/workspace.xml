@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d99169a6-ac0c-433e-9aa6-866e7f38ca44" name="Changes" comment="more problems">
-      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/band_members/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/test/test_truck_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/truck_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Advanced-OOP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/concert_tracker_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/concert_tracker_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/band.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/band_members/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/test/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/band_members/drummer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/band_members/guitarist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/band_members/musician.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/band_members/singer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/concert.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/concert_tracker_app.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,112 +72,84 @@
       <recent name="D:\GIT Repos\SoftUni-Advanced-OOP 2023\Advanced\3.Multidimensional 2022\3.Multidimensional Lists Excersise 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="concert_tracker_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/concert_tracker_app.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="guitarist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/band_members" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/band_members/guitarist.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/band_members" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/band_members/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="singer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Advanced-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/band_members" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/band_members/singer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in test_toy_store.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test_truck_driver.py">
+    <configuration name="Python tests for test_truck_driver.TestTruckDriver.test__repr__" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Advanced-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_1/third/project/test/test_toy_store.py&quot;" />
+      <option name="_new_target" value="&quot;test_truck_driver.TestTruckDriver.test__repr__&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_truck_driver.TestTruckDriver.test_add_existing_cargo_raises" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_truck_driver.TestTruckDriver.test_add_existing_cargo_raises&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_truck_driver.TestTruckDriver.test_drive_best_cargo_offer_no_offer_raises" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_truck_driver.TestTruckDriver.test_drive_best_cargo_offer_no_offer_raises&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_truck_driver.TestTruckDriver.test_repair" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_truck_driver.TestTruckDriver.test_repair&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_truck_driver.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Advanced-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/test/test_truck_driver.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.concert_tracker_app" />
-        <item itemvalue="Python.singer" />
-        <item itemvalue="Python.guitarist" />
-        <item itemvalue="Python tests.Python tests in test_toy_store.py" />
+        <item itemvalue="Python tests.Python tests in test_truck_driver.py" />
+        <item itemvalue="Python tests.Python tests for test_truck_driver.TestTruckDriver.test_drive_best_cargo_offer_no_offer_raises" />
+        <item itemvalue="Python tests.Python tests for test_truck_driver.TestTruckDriver.test_add_existing_cargo_raises" />
+        <item itemvalue="Python tests.Python tests for test_truck_driver.TestTruckDriver.test__repr__" />
+        <item itemvalue="Python tests.Python tests for test_truck_driver.TestTruckDriver.test_repair" />
       </list>
     </recent_temporary>
   </component>
@@ -456,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692601692173</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="more problems">
+      <option name="closed" value="true" />
+      <created>1692615785282</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1692615785282</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -602,6 +591,11 @@
           <url>file://$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/project/band_members/main.py</url>
           <line>5</line>
           <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/OOP/EXAM PREPS/FEBRUARY 2023/FEBRUARY_2023_2/THIRD/project/test/test_truck_driver.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="145" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
