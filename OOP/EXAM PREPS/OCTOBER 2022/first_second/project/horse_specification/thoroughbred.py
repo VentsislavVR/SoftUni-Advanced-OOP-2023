@@ -9,6 +9,4 @@ class Thoroughbred(Horse):
         super().__init__(name, speed)
 
     def train(self):
-        self.speed = self.MAX_SPEED if self.speed + self.SPEED_ADD > self.MAX_SPEED\
-            else self.speed + self.SPEED_ADD
-        # self.speed = min(self.speed + self.SPEED_ADD,self.MAX_SPEED)
+        self.speed = min(self.speed + self.SPEED_ADD,self.MAX_SPEED)
