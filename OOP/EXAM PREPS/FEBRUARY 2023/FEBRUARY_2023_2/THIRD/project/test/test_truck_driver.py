@@ -1,7 +1,5 @@
-from project.truck_driver import TruckDriver
-
 from unittest import TestCase, main
-
+from project.truck_driver import TruckDriver
 
 class TestTruckDriver(TestCase):
     def setUp(self) -> None:
