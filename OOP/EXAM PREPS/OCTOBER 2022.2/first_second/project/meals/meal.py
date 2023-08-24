@@ -13,7 +13,7 @@ class Meal(ABC):
 
     @name.setter
     def name(self, value):
-        if value == "":
+        if value.strip() == "":
             raise ValueError("Name cannot be an empty string!")
         self.__name = value
 
