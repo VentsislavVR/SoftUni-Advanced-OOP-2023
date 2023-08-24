@@ -15,7 +15,7 @@ class Client:
 
     @phone_number.setter
     def phone_number(self, value):
-        if value[0] == 0 and len(value) == 10 and value.is_digit():
+        if value[0] == "0" and len(value) == 10 and value.isdigit():
             self.__phone_number = value
         else:
             raise ValueError("Invalid phone number!")
