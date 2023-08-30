@@ -1,7 +1,7 @@
 def flights(*args):
     total_flights = {}
 
-    for current in range(0,len(args),2):
+    for current in range(0,len(args)-1,2):
         if args[current] == 'Finish':
             break
 
