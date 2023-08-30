@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod
 
 
 class Drink(ABC):
+    @abstractmethod
     def __init__(self, name: str, portion: int, price: float, brand: str):
         self.brand = brand
         self.price = price
@@ -15,8 +16,11 @@ class Drink(ABC):
     @name.setter
     def name(self, value):
         if value.strip() == "":
-            raise ValueError("Name cannot be empty string or white space!")
-        self.name = value
+            raise ValueError("Name cannot"
+                             " be empty "
+                             "string or "
+                             "white space!")
+        self.__name = value
 
     @property
     def portion(self):
@@ -25,8 +29,11 @@ class Drink(ABC):
     @portion.setter
     def portion(self, value):
         if value <= 0:
-            raise ValueError("Portion cannot be less than or equal to zero!")
-        self.portion = value
+            raise ValueError(
+                "Portion cannot "
+                "be less than "
+                "or equal to zero!")
+        self.__portion = value
 
     @property
     def brand(self):
@@ -35,9 +42,12 @@ class Drink(ABC):
     @brand.setter
     def brand(self, value):
         if value.strip() == '':
-            raise ValueError("Brand cannot be empty string or white space!")
-        self.brand = value
+            raise ValueError("Brand cannot"
+                             " be empty "
+                             "string or "
+                             "white space!")
+        self.__brand = value
 
     @abstractmethod
     def __repr__(self):
-        return f"- {self.name} {self.brand} - {self.portion:.2f}ml - {self.price:.2f}lv"
+        ...

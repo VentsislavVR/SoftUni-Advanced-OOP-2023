@@ -16,7 +16,7 @@ class BakedFood(ABC):
     def name(self, value):
         if value.strip() == '':
             raise ValueError("Name cannot be empty string or white space!")
-        self.name = value
+        self.__name = value
 
     @property
     def price(self):
@@ -26,8 +26,8 @@ class BakedFood(ABC):
     def price(self, value):
         if value <= 0:
             raise ValueError("Price cannot be less than or equal to zero!")
-        self.price = value
+        self.__price = value
 
     @abstractmethod
     def __repr__(self):
-        return f"- {self.name}: {self.portion:.2f}g - {self.price:.2f}lv"
+        ...

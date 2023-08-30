@@ -6,4 +6,4 @@ class Bread(BakedFood):
         super().__init__(name, 200, price)
 
     def __repr__(self):
-        ...
+        return f"- {self.name}: {self.portion:.2f}g - {self.price:.2f}lv"
