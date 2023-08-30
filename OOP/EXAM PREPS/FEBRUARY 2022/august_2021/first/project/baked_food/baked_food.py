@@ -2,6 +2,7 @@ from abc import ABC, abstractmethod
 
 
 class BakedFood(ABC):
+    @abstractmethod
     def __init__(self, name: str, portion: float, price: float):
         self.name = name
         self.portion = portion
@@ -13,7 +14,7 @@ class BakedFood(ABC):
 
     @name.setter
     def name(self, value):
-        if value == '':
+        if value.strip() == '':
             raise ValueError("Name cannot be empty string or white space!")
         self.name = value
 
@@ -26,3 +27,7 @@ class BakedFood(ABC):
         if value <= 0:
             raise ValueError("Price cannot be less than or equal to zero!")
         self.price = value
+
+    @abstractmethod
+    def __repr__(self):
+        return f"- {self.name}: {self.portion:.2f}g - {self.price:.2f}lv"
