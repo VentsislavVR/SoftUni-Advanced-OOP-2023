@@ -1,18 +1,15 @@
 from collections import deque
 
-names_deque = deque()
-COMMAND_END = "End"
-COMMAND_PAID = "Paid"
+name = input()
+customer_list = deque()
 
-while True:
-    command = input()
-
-    if command == COMMAND_END:
-        print(f"{len(names_deque)} people remaining.")
-        break
-
-    elif command == COMMAND_PAID:
-        while names_deque:
-            print(names_deque.popleft())
+while name != 'End':
+    if name == 'Paid':
+        while customer_list:
+            print(customer_list.popleft())
     else:
-        names_deque.append(command)
+        customer_list.append(name)
+    name = input()
+
+
+print(f"{len(customer_list)} people remaining.")
