@@ -1,16 +1,19 @@
 n = int(input())
 cars = set()
 
-for _ in range(n):
-    direction,number = input().split(", ")
-    if direction == "IN":
-        cars.add(number)
-    elif direction == "OUT":
+for car in range(n):
+    direction,number = input().split(', ')
+
+    if direction == 'IN':
+        if number not in cars:
+            cars.add(number)
+
+    else:
         cars.remove(number)
 
-if cars:
-    print(*cars,sep="\n")
+if not cars:
+    print(f"Parking Lot is Empty")
 else:
-    print("Parking Lot is Empty")
+    print('\n'.join(cars))
 
 

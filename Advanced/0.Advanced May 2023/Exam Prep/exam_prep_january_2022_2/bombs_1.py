@@ -36,7 +36,7 @@ while bomb_effect and bomb_casing:
         bomb_casing.append(cur_casing)
         bomb_effect.appendleft(cur_effect)
 
-if not  pouch_is_full:
+if not pouch_is_full:
     print("You don't have enough materials to fill the bomb pouch.")
 if bomb_effect:
     print(f"Bomb Effects: {', '.join(str(x) for x in bomb_effect)}")

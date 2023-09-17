@@ -1,7 +1,4 @@
-num = int(input())
-names = set()
-for n in range(num):
-    name = input()
-    names.add(name)
-for name in names:
-    print(name)
+
+n = int(input())
+data = {input() for _ in range(n)}
+print('\n'.join(data))
