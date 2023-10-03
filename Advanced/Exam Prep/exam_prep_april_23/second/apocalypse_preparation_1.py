@@ -27,25 +27,25 @@ while textiles and medicament:
     if current_sum > 100:
         meds_count['MedKit'] +=1
         medicament[-1] += current_sum - 100
-
-
-
-
+both_empty = False
 if not medicament and not textiles:
-    print('Textiles and medicaments are both empty')
+    both_empty = True
+
+    print('Textiles and medicaments are both empty.')
 
 if not textiles:
-    print("Textiles are empty.")
-else:
-    print(f"Textiles: {textiles}")
+    if both_empty == False:
+        print("Textiles are empty.")
 if not medicament:
-    print("Medicaments are empty.")
-else:
-    print(f"Medicaments: {medicament}")
+    if both_empty == False:
+        print("Medicaments are empty.")
 
+for key,value in sorted(meds_count.items(),key=lambda x:(-x[1],x[0])):
+    if value:
+        print(f"{key} - {value}")
+if textiles:
+    print(f"Textiles left: {', '.join([str(x) for x in textiles])}")
 
-
-
-
-
+if medicament:
+    print(f"Medicaments left: {', '.join([str(x) for x in medicament][::-1])}")
 

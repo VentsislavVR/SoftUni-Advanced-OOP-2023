@@ -1,27 +1,18 @@
-from functools import reduce
-from math import floor
+from collections import deque
 
-expression = input().split()  # 6 3 - 2 1 * 5 /
+line = deque(input().split())
+number = deque()
 
-idx = 0
-
-functions = {
-    "*": lambda i: reduce(lambda a, b: a * b, map(int, expression[:i])),
-    "/": lambda i: reduce(lambda a, b: a / b, map(int, expression[:i])),
-    "+": lambda i: reduce(lambda a, b: a + b, map(int, expression[:i])),
-    "-": lambda i: reduce(lambda a, b: a - b, map(int, expression[:i])),
-
+operators = {
+    '+': lambda x, y: x + y,
+    '-': lambda x, y: x - y,
+    '*': lambda x, y: x * y,
+    '/': lambda x, y: x // y
 }
-
-while idx < len(expression):
-    element = expression[idx]
-
-    if element in "*/+-":
-        expression[0] = functions[element](idx)
-        [expression.pop(1) for i in range(idx)]
-
-        idx = 1
-
-    idx += 1
-
-print(floor(int(expression[0])))
+for i in line:
+    if i not in '+-*/':
+        number.append(int(i))
+    else:
+        while len(number) > 1:
+            number.appendleft(operators[i](int(number.popleft()),int(number.popleft())))
+print(*number)
