@@ -1,4 +1,9 @@
+
+from collections import deque
+
 def stock_availability(data, command,*args):
+    data = deque(data)
+
 
     pass
 
