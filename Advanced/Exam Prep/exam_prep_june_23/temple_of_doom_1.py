@@ -24,8 +24,6 @@ while tools and substances and challenges:
         if substance >0:
             substances.append(substance)
 
-
-
 if challenges:
     print("Harry is lost in the temple. Oblivion awaits him.")
 if not challenges:
