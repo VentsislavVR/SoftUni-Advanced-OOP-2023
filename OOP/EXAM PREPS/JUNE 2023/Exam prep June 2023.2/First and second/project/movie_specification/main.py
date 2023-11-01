@@ -1,6 +1,4 @@
-from project.user import User
 from project.movie_app import MovieApp
-from project.movie_specification.movie import Movie
 from project.movie_specification.fantasy import Fantasy
 from project.movie_specification.action import Action
 
