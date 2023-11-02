@@ -20,17 +20,22 @@ class PizzaDelivery:
 
 
     def remove_ingredient(self,ingredient: str, quantity: int, price_per_quantity: float):
-        if ingredient not in self.ingredients.keys():
-            return f"Wrong ingredient selected! We do not use {ingredient} in {self.name}!"
-        if self.ingredients[ingredient] < quantity:
-            return f"Please check again the desired quantity of {ingredient}!"
-        self.ingredients[ingredient] -= quantity
-        self.price -= (price_per_quantity*quantity)
+        if not self.ordered:
+            if ingredient not in self.ingredients:
+                return f"Wrong ingredient selected! We do not use {ingredient} in {self.name}!"
+            if self.ingredients[ingredient] < quantity:
+                return f"Please check again the desired quantity of {ingredient}!"
+            self.ingredients[ingredient] -= quantity
+            self.price -= (price_per_quantity*quantity)
+        else:
+            return f"Pizza {self.name} already prepared, and we can't make any changes!"
 
     def make_order(self):
-        self.ordered = True
-        return f"You've ordered pizza {self.name} prepared with {', '.join([f'{k}: {v}' for k, v in self.ingredients.items()])}"+\
-                f" and the price will be {self.price}lv."
+        if not self.ordered:
+            self.ordered = True
+            return f"You've ordered pizza {self.name} prepared with {', '.join([f'{k}: {v}' for k, v in self.ingredients.items()])}"+\
+                    f" and the price will be {self.price}lv."
+        return f"Pizza {self.name} already prepared, and we can't make any changes!"
 
 
 import unittest

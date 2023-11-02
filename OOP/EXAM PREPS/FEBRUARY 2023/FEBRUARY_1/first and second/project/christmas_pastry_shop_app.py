@@ -1,11 +1,11 @@
 from typing import List
 
-from project.booths.booth import Booth
-from project.booths.open_booth import OpenBooth
-from project.booths.private_booth import PrivateBooth
-from project.delicacies.delicacy import Delicacy
-from project.delicacies.gingerbread import Gingerbread
-from project.delicacies.stolen import Stolen
+from booths.booth import Booth
+from booths.open_booth import OpenBooth
+from booths.private_booth import PrivateBooth
+from delicacies.delicacy import Delicacy
+from delicacies.gingerbread import Gingerbread
+from delicacies.stolen import Stolen
 
 
 class ChristmasPastryShopApp:

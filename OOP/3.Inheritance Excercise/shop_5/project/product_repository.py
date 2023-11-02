@@ -1,6 +1,6 @@
-from drink import Drink
-from food import Food
-from product import Product
+from project.drink import Drink
+from project.food import Food
+from project.product import Product
 from typing import List, Optional
 
 
@@ -26,12 +26,12 @@ class ProductRepository:
 
 
 
-food = Food("apple")
-drink = Drink("water")
-repo = ProductRepository()
-repo.add(food)
-repo.add(drink)
-print(repo.products)
-print(repo.find("water"))
-repo.find("apple").decrease(5)
-print(repo)
+# food = Food("apple")
+# drink = Drink("water")
+# repo = ProductRepository()
+# repo.add(food)
+# repo.add(drink)
+# print(repo.products)
+# print(repo.find("water"))
+# repo.find("apple").decrease(5)
+# print(repo)
