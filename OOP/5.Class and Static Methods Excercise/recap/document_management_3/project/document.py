@@ -1,6 +1,6 @@
 from typing import List
-from category import Category
-from topic import Topic
+from project.category import Category
+from project.topic import Topic
 
 
 class Document:

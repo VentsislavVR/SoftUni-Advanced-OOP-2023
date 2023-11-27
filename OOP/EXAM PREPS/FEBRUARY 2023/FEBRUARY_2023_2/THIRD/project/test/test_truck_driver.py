@@ -61,6 +61,19 @@ class TestTruckDriver(TestCase):
         self.assertEqual(280, self.driver.earned_money)
         self.assertEqual(300, self.driver.miles)
 
+    def test_check_for_activities(self):
+        # Case 1: Test with 0 miles
+        self.driver.check_for_activities(0)
+        self.assertEqual(0, self.driver.earned_money)
+        self.assertEqual(0, self.driver.miles)
+
+
+        self.driver.miles=250
+        self.driver.earned_money = 100  # Reset earned_money
+        self.driver.check_for_activities(250)
+        self.assertEqual(80, self.driver.earned_money)  # 20 deducted for eat activity
+        self.assertEqual(self.driver.miles, self.driver.miles)  # miles should be updated to 250
+
     def test_eat(self):
         self.driver.earned_money = 50
         self.driver.eat(250)

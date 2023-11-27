@@ -10,3 +10,6 @@ class Product:
     @property
     def price(self) -> float:
         return self.__price
+p = Product('kashkaval',800)
+
+print(p.__name)
