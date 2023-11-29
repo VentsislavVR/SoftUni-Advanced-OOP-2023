@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 from typing import List
-from food import Food
+
 
 
 class Animal(ABC):
@@ -12,7 +12,7 @@ class Animal(ABC):
 
     @property
     @abstractmethod
-    def food_that_eats(self) -> List[Food]:
+    def food_that_eats(self) -> List[object]:
         ...
 
     @property
@@ -24,7 +24,7 @@ class Animal(ABC):
     def make_sound(self) -> str:
         ...
 
-    def feed(self, food: Food) -> None or str:
+    def feed(self, food) -> None or str:
         if type(food) not in self.food_that_eats:
             return f"{self.__class__.__name__} does not eat {food.__class__.__name__}!"
         self.weight += food.quantity * self.gained_weight
