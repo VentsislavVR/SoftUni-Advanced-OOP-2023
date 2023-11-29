@@ -7,7 +7,7 @@ class Movie(ABC):
     def __init__(self, title: str, year: int, owner: User, age_restriction: int):
         self.title = title
         self.year = year
-        self.owner:User = owner
+        self.owner: User = owner
         self.age_restriction = age_restriction
         self.likes = 0
 
@@ -41,8 +41,6 @@ class Movie(ABC):
             raise ValueError("The owner must be an object of type User!")
         self.__owner = value
 
-
     @abstractmethod
     def details(self):
         ...
-

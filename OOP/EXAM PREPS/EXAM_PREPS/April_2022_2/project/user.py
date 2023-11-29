@@ -5,24 +5,23 @@ class User:
     def __init__(self, username: str, age: int):
         self.username = username
         self.age = age
-        self.movies_liked:List=[]
-        self.movies_owned:List=[]
+        self.movies_liked: List = []
+        self.movies_owned: List = []
 
-        
     @property
     def username(self):
         return self.__name
-    
+
     @username.setter
     def username(self, value):
         if value == '':
             raise ValueError('Invalid username!')
         self.__name = value
-    
+
     @property
     def age(self):
         return self.__age
-    
+
     @age.setter
     def age(self, value):
         if value < 6:

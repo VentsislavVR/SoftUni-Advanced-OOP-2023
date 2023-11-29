@@ -4,7 +4,7 @@ from project.user import User
 
 
 class Thriller(Movie):
-    def __init__(self,title: str, year: int, owner: User, age_restriction:int =16):
+    def __init__(self, title: str, year: int, owner: User, age_restriction: int = 16):
         super().__init__(title, year, owner, age_restriction)
 
     @property
@@ -23,9 +23,3 @@ class Thriller(Movie):
                 f" Age restriction:{self.age_restriction},"
                 f" Likes:{self.likes},"
                 f" Owned by:{self.owner.username}")
-
-
-# u = User('test',56)
-# a = 'abv'
-# f = Thriller('asd',2500,u,16)
-# print(f.details())
