@@ -6,5 +6,6 @@ def fibonacci():
         n1,n2 = n2 , n1+n2
 
 generator = fibonacci()
-for i in range(50):
+for i in range(50000):
+    print('===============================================================================================')
     print(next(generator))

@@ -1,4 +1,4 @@
-from cat import Cat
+from project.cat import Cat
 
 
 
@@ -12,3 +12,5 @@ class Tomcat(Cat):
 
 
 
+t = Tomcat('Ariel',25,)
+print(t.gender)

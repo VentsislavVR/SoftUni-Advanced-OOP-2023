@@ -1,5 +1,5 @@
 from typing import Dict
-from formula_team import FormulaTeam
+from project.formula_teams.formula_team import FormulaTeam
 
 class MercedesTeam(FormulaTeam):
 

@@ -1,4 +1,4 @@
-from cat import Cat
+from project.cat import Cat
 
 class Kitten(Cat):
     def __init__(self, name: str, age: int):
