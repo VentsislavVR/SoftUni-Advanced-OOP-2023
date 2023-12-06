@@ -5,7 +5,6 @@ from project.space_station import SpaceStation
 
 space_station = SpaceStation()
 
-
 print(space_station.add_astronaut('Biologist','Pesho'))
 print(space_station.add_astronaut('Meteorologist','Pesho1'))
 print(space_station.add_astronaut('Geodesist','Pesho2'))
