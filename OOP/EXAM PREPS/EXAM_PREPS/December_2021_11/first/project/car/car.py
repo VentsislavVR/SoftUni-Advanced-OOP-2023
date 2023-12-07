@@ -32,7 +32,6 @@ class Car(ABC):
             self.max_speed_limit,
             f"Invalid speed limit!"
             f" Must be between {self.min_speed_limit} and {self.max_speed_limit}!"
-
         )
         self.__speed_limit = value
 
