@@ -7,4 +7,4 @@ def get_operations_count(n):
 
     return counter
 
-print(get_operations_count(9))
+print(get_operations_count(2))
